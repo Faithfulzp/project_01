@@ -1,2 +1,4 @@
 #忽略test3.txt文件
 test3.txt
+#取消sll认证
+[http] sslbackend = openssl
